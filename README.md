@@ -1,5 +1,10 @@
 # Code-Clause-Blindness-Detection-Project3
 This project is made for AI Internship for Code Clause
+
+Below is the following code i have implemented.
+Libraries and packages I have used are Tensorflow, numpy, pandas, seaborn, opencv cv2, matplotlib, Pillow.
+
+It trains data as per user inputs and detemines the level of blindness
      
     import numpy as np
     import pandas as pd
